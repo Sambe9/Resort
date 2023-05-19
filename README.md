@@ -21,14 +21,9 @@ A website’s homepage usually provides a general overview of a business. But if
 
 Landing pages are ideal for digital ad campaigns, but they can also be useful tools when you connect a QR code on print marketing materials to a specific page. The goal of a landing page is to convert visitors, so it’s an essential tool to have at your disposal for all types of marketing campaigns.
 
-What is a landing page?
-Mailchimp Content Refresh -98 graphic -1-01 (1)
-
 A landing page is a standalone web page that a person "lands" on after clicking through from an email, ad, or other digital location. Every content strategy should include the use of landing pages to convert more traffic and increase conversions.
 
 Once a user is on your landing page, they are encouraged to take an action, such as joining your list or buying your products. If the user takes the specific desired action, then your landing page has succeeded in getting them to convert.
-
-Typically, landing pages only encourage their users to take one such action, like to fill out the custom signup form on the page. Why?
 
 It’s because of what researchers call the “paradox of choice.” In simple terms, that means that the more options you give people, the harder it is for them to make a decision and act.
 
@@ -38,7 +33,6 @@ On the extreme end, too many choices can overwhelm your users, causing them to s
 
 This is why a landing page should have a clear visual hierarchy and value proposition, and should be tested for the best conversion optimization.
 
-What makes a homepage different from a landing page?
 There are a handful of things that set homepages and landing pages apart. Homepages have:
 
 More links. On a typical homepage, you can find at least 10 links. There's often a navigational menu at the top, links in the footer, and many in the page’s content. On a well-optimized landing page, though, you'll usually find fewer links, and sometimes only one—the link that allows your users to convert.
